@@ -11,7 +11,7 @@ If you are interested in this work, please contact **Valentine Guzniczak** (vg@p
 - **"R700"**: Reflectance at the **wavelength 700nm** over time for the three irrigation deficit levels.
 - **"Reflectance_drought_XX"**: Full **reflectance spectra** for a given level of irrigation deficit.
 
-## Methods summary
+## Methods
 - Wild mustard (*Sinapis arvensis*)
 - 3 levels of deficit irrigation (80%, 50% , and 30% of field capacity (FC)) (n=24 per level)
 - 8 doses of metsulfuron methyl, LAS inhibitor herbicide (n=4 per dose per irrigation deficit  level)
