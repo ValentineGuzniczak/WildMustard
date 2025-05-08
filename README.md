@@ -1,6 +1,6 @@
 # 🌱 Reflectance & RGB GIF Collection 🌱
 
-Thank you for viewing our GIFs!  (SETAC poster 1.04 PW.015: Toxicophenomic assessment of the combined effect of metsulfuron-methyl exposure and deficit irrigation on *Sinapis arvensis*)
+Thank you for viewing our GIFs!  (SETAC poster 1.04.P-We015: Toxicophenomic assessment of the combined effect of metsulfuron-methyl exposure and deficit irrigation on *Sinapis arvensis*)
 
 If you are interested in this work, please contact **Valentine Guzniczak** (vg@plen.ku.dk).
 
