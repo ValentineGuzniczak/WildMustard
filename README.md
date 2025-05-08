@@ -1,6 +1,6 @@
 # 🌱 Reflectance & RGB GIF Collection 🌱
 
-Thank you for viewing our GIFs!  (SETAC poster 1.04 PW.015: Toxicophenomic assessment of the combined effect of metsulfuron-methyl exposure and deficit irrigation on Sinapis arvensis)
+Thank you for viewing our GIFs!  (SETAC poster 1.04 PW.015: Toxicophenomic assessment of the combined effect of metsulfuron-methyl exposure and deficit irrigation on *Sinapis arvensis*)
 
 If you are interested in this work, please contact **Valentine Guzniczak** (vg@plen.ku.dk).
 
@@ -12,7 +12,7 @@ If you are interested in this work, please contact **Valentine Guzniczak** (vg@p
 - **"Reflectance_drought_XX"**: Full **reflectance spectra** for a given level of irrigation deficit.
 
 ## Methods summary
-- Wild mustard (Sinapis arvensis)
+- Wild mustard (*Sinapis arvensis*)
 - 3 levels of deficit irrigation (80%, 50% , and 30% of field capacity (FC)) (n=24 per level)
 - 8 doses of metsulfuron methyl, LAS inhibitor herbicide (n=4 per dose per irrigation deficit  level)
 - Measurements
