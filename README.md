@@ -1,6 +1,7 @@
 # 🌱 Reflectance & RGB GIF Collection 🌱
 
-Thank you for viewing our GIFs!  
+Thank you for viewing our GIFs!  (SETAC poster 1.04 PW.015: Toxicophenomic assessment of the combined effect of metsulfuron-methyl exposure and deficit irrigation on Sinapis arvensis)
+
 If you are interested in this work, please contact **Valentine Guzniczak** (vg@plen.ku.dk).
 
 ## Contents
@@ -19,5 +20,8 @@ If you are interested in this work, please contact **Valentine Guzniczak** (vg@p
   - Destructive at the end of the 28 days
 - Analysis
   - Dose-response analysis for all endpoints and measuring times
-  - Benchmark dose estimation (dashed lines)
+  - Benchmark dose estimation
+ 
+## About the author
+Valentine Guzniczak is a PhD fellow at the University of Copenhagen (Denmark), specialised in environmental toxicology and modelling. Valentine's research focuses on the advancement of benchmark dose methodology for high-throughput toxicophenomic data, a project that blends coding, lab work, software development, experiments in the greenhouse and making many gifs.
 
