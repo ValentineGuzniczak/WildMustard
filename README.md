@@ -10,7 +10,7 @@ If you are interested in this work, please contact **Valentine Guzniczak** (vg@p
 - **"flower"**: RGB pictures of a **control plant** (no herbicide) with **highest irrigation** over time.
 - **"R700"**: Reflectance at the **wavelength 700nm** over time for the three irrigation deficit levels.
 - **"Reflectance_drought_XX"**: Full **reflectance spectra** for a given level of irrigation deficit.
-- **SETACPoster**: the poster.
+- **"SETACPoster"**: the poster.
 
 ## Methods
 - Wild mustard (*Sinapis arvensis*)
